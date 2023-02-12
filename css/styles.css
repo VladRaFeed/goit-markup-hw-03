@@ -258,7 +258,7 @@ img {
 
 .section-title-top-team {
   text-align: center;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   color: var(--main-text-color);
   font-size: 36px;
   line-height: 1.1;
@@ -352,6 +352,7 @@ img {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 .card-section-text {
   color: var(--p-color);
